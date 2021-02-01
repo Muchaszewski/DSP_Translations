@@ -1,9 +1,5 @@
 # DSP_Translations_Spanish
 
-Add your tranlations for Dyson Spehere Programm here!
-
-Translations can be accessed in game via plugin: https://github.com/Muchaszewski/DSP_TranslationMod
-
 # Español
 Traducción al español de Dyson Spehere Program.
 Hay dos tipos de traducción:
