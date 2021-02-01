@@ -1,16 +1,38 @@
-# DSP_Translations
+# DSP_Translations_Spanish
 
 Add your tranlations for Dyson Spehere Programm here!
 
 Translations can be accessed in game via plugin: https://github.com/Muchaszewski/DSP_TranslationMod
 
-# How to contribute
-1. Create fork of the repo
-2. Create folder with your translation with a name of the translation eg: `Polish`, `Spanish`, `German` or `Portugeese-br` in local repository
-3. Add translation and settings files to the folder
-4. Commit and push changes to local repository
-5. Create pull request to this repository
-6. Describe your changes
-7. Wait for merge
+# Español
+Traducción al español de Dyson Spehere Program.
+Hay dos tipos de traducción:
 
-If this instruction is too complicated - keep your translation local for now -- support for https://crowdl.io/ is comming!
+| Tipo de Traducción  | Descripción | Estado |
+| ------------- | ------------- | ------------|
+| Spanish_Auto  | Traducción al español generada automaticamente con API Google Translation Cloud  | 100% |
+| Spanish | Traducción al español, revisada por un humano | 0% |
+
+(Próximamente subiré un repositorio para traducir automaticamente tu propio idioma)
+
+¡Creditos a Muchaszewski!
+La traducción tiene que ser utilizada con: https://github.com/Muchaszewski/DSP_TranslationMod
+
+Cualquier duda puedes preguntarme por discord: Thecloudff7#0001
+
+
+# English
+Spanish translation to the game Dyson Spehere Program.
+There are two types of translation:
+
+| Types of translation  | Description | Status |
+| ------------- | ------------- | ------------|
+| Spanish_Auto  | Translation into Spanish automatically generated with API Google Translation Cloud  | 100% |
+| Spanish | Spanish translation, text reviewed by someone   | 0% |
+
+(Soon I will upload a repository to automatically translate your own language)
+
+¡Credits to Muchaszewski!
+The translation has to be used with: https://github.com/Muchaszewski/DSP_TranslationMod
+
+Any questions you can ask me about discord: Thecloudff7#0001
